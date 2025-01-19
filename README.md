@@ -12,7 +12,7 @@
     status = "High School Student"
     languages = {"swift", "python", "lua", "c++", "html", "css", "astro", "javascript", "java"}
     games = {"PVZ", "Minecraft", "Hollow Knight", "Subnautica", "No Man's Sky", "Metro" series}
-    timezone = "GMT+2"
+    timezone = "GMT+1"
     pronouns ="he/him"
 }
   ```
