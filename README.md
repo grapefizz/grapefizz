@@ -7,6 +7,8 @@ Pronouns -> `He/Him`
 
 Location -> `Kosovo`
 
+Website -> `https://grapefizz.dev`
+
 Time Zone -> `GMT+1`
 
 Occupation -> `High school student`
