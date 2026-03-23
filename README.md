@@ -1,7 +1,7 @@
 
   <h1 align="center">| About me</h1>
 
-Age -> `16`
+Age -> `17`
 
 Pronouns -> `He/Him`
 
